@@ -1,1 +1,1 @@
-# data_science_job
+# Recruitment task for Blue Brick
